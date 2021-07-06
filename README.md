@@ -1,10 +1,12 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Inglaciela/Inglaciela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruna Inglaciela 🙅🏽‍♀️ I`m from Brazil 🔰
+I am a student of Systems Analysis and Development 👩🏾‍💻
 
-Here are some ideas to get you started:
+#### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
 
+
+ :black_nib: Thales Valentim
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
