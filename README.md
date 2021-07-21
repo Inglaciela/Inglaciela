@@ -10,7 +10,7 @@ I am a student of Systems Analysis and Development 👩🏾‍💻
 
 - 📫  **Inglassyeladev@gmail.com**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Bruna%20Inglaciela-pink?style=flat-square&labelColor=pink&logo=linkedin&logoColor=black&link=linkedin.com/in/bruna-inglaciela-071190208r)](linkedin.com/in/bruna-inglaciela-071190208)
+[![LinkedIn Badge](https://img.shields.io/badge/-Bruna%20Inglaciela-pink?style=flat-square&labelColor=pink&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/brunainglaciela/)](https://www.linkedin.com/in/brunainglaciela/)
 [![Instagram Badge](https://img.shields.io/badge/-@developernav-pink?style=flat-square&labelColor=pink&logo=instagram&logoColor=black&link=https://www.instagram.com/developernav/)](https://www.instagram.com/developernav/)
 [![Twitter Badge](https://img.shields.io/badge/-@InglacielaBruna-pink?style=flat-square&labelColor=pink&logo=twitter&logoColor=black&link=https://twitter.com/InglacielaBruna)](https://twitter.com/InglacielaBruna)
 
