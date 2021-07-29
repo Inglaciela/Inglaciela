@@ -31,6 +31,7 @@
   <a href="https://www.linkedin.com/in/brunainglaciela/" target="_blank"><img src="https://img.shields.io/badge/-brunainglaciela-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
   <a href="https://www.instagram.com/developernav/" target="_blank"><img src="https://img.shields.io/badge/-developernav-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCEF5LzRSR0csWZv3HrZ5R0g" target="_blank"><img src="https://img.shields.io/badge/DeveloperNav-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+    <a href="Bruna Inglaciela#4669" target="_blank"><img src="https://img.shields.io/badge/Bruna Inglaciela-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/InglacielaBruna" target="_blank"><img src="https://img.shields.io/badge/InglacielaBruna-%230077B5?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
  
   ![Snake animation](https://github.com/Inglaciela/Inglaciela/blob/output/github-contribution-grid-snake.svg)
