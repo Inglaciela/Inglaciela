@@ -1,6 +1,7 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-👩🏾‍💻I am a student of Systems Analysis and Development / Information security
+👩🏾‍💻I am a student of Systems Analysis and Development / Information security.
+
 
 👩🏾Pronouns: Ela/Dela
 
@@ -11,7 +12,7 @@
 
 <div>
   <a href="https://github.com/Inglaciela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inglaciela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=Inglaciela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inglaciela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
