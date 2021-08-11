@@ -1,6 +1,6 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-👩🏾‍💻I am a student of Systems Analysis and Development / Information security.
+👩🏾‍💻I am a student of Systems Analysis and Development.
 
 
 #### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
