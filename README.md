@@ -1,11 +1,13 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
 👩🏾‍💻I am a student of Systems Analysis and Development.
+ <img height="135" width="200" src="https://user-images.githubusercontent.com/82710857/129790190-410613df-cd18-450f-8191-a8b340ed5826.png">
 
 
 #### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
 
 🖋Thales Valentim
+
 
 <div>
   <a href="https://github.com/Inglaciela">
@@ -31,7 +33,7 @@
   <a href="https://twitter.com/InglacielaBruna" target="_blank"><img src="https://img.shields.io/badge/InglacielaBruna-%230077B5?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/Inglaciela/Inglaciela/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Inglaciela/Inglaciela/blob/output/github-contribution-grid-snake.svg) 
   </div>  
 
 
