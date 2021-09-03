@@ -1,7 +1,7 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-👩🏾‍💻I am a student of Systems Analysis and Development.
- <img height="135" width="200" src="https://user-images.githubusercontent.com/82710857/129790190-410613df-cd18-450f-8191-a8b340ed5826.png">
+- 📚 Systems Analysis and Development
+- 💻 Full-Stack
 
 
 #### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
@@ -23,6 +23,8 @@
   <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
   <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+  <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+   <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
