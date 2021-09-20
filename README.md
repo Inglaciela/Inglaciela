@@ -1,7 +1,7 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
 - 📚 Systems Analysis and Development
-- 💻 Full-Stack
+- 💻 Cybersecurity
 
 
 #### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
