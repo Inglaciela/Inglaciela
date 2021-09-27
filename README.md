@@ -1,6 +1,7 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
 - 📚 Systems Analysis and Development
+- 💻 Cybersecurity
 - 💻 Developer
 
 
