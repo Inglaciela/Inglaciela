@@ -1,7 +1,7 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-- 📚 Systems Analysis and Development
-- 🧠 Cybersecurity
+- 📚 Full-Stack 
+- 🧠 Java ▪︎ Python | Front-end
 - 💻 Developer
 
 
