@@ -1,8 +1,8 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-- 📚 Full-Stack 
-- 🧠 Java ▪︎ Python | Front-end
-- 💻 Developer
+- 📚 Python | Pandas | Jupyter | Colab
+- 🧠 Java | Gradlew | Maven
+- 💻 HTML5 | CSS3 | Bootstrap
 
 
 #### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema" 🧠
