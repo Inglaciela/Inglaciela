@@ -1,5 +1,6 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
+- ☕ BackEnd
 - 📚 Python | Pandas | Jupyter | Colab
 - 🧠 Java | Gradlew | Maven
 - 💻 HTML5 | CSS3 | Bootstrap
