@@ -2,7 +2,7 @@
 
 - 👩🏽‍🎓 Análise e Desenvolvimento de Sistemas
 - 📚 Python | Pandas | Jupyter | Colab
-- 🧠 Power BI | Excel | Maven
+- 🧠 Power BI | Excel
 - 💻 HTML5 | CSS3 | Bootstrap
 
 
