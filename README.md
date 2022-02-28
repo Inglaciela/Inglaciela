@@ -1,8 +1,8 @@
 ## Hello! My name is Bruna Inglaciela 🙅🏽‍♀️
 
-- ☕ BackEnd
+- 👩🏽‍🎓 Análise e Desenvolvimento de Sistemas
 - 📚 Python | Pandas | Jupyter | Colab
-- 🧠 Java | Gradlew | Maven
+- 🧠 Power BI | Excel | Maven
 - 💻 HTML5 | CSS3 | Bootstrap
 
 
