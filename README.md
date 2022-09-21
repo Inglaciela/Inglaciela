@@ -31,7 +31,7 @@ Sou Bruna Inglaciela 🙅🏽‍♀️ Cientista de Dados apaixonada por estatí
   ##
 <div>
   <div align="center">
-  <a href="https://youtube.com/shorts/pj3tJ0VSwXg?feature=share" target="_blank"><img src="https://img.shields.io/badge/Meu.Site-000000%7D?style=for-the-badge&logo=MeuSite&logoColor=white" target="_blank"></a>
+  <a href="https://sites.google.com/view/brunainglaciela/" target="_blank"><img src="https://img.shields.io/badge/Meu.Site-000000%7D?style=for-the-badge&logo=MeuSite&logoColor=white" target="_blank"></a>
   <a href="https://youtube.com/shorts/pj3tJ0VSwXg?feature=share" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunainglassyela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunainglaciela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
